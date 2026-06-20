@@ -285,3 +285,9 @@ The `services/` directory contains stubs for Amazon Prime Video, Apple TV+, Disn
 4. **Routing** — Integrate with `startup.js`'s `mystreme_autologin` dispatcher so the correct `services/<name>.js` module is loaded based on the URL.
 
 Suggested priority order: **Amazon Prime Video** (most similar DOM structure to Netflix), then **Disney+**, then **Apple TV+**, then **Google Play**.
+
+---
+
+## License
+
+MIT — Coded by Fotios Basagiannis
